@@ -22,6 +22,10 @@
 		{
 			"Name": "PathGenerator",
 			"Enabled": false
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
